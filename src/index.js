@@ -4,3 +4,6 @@ import './index.css';
 import MovieShowcase from './MovieShowcase';
 
 ReactDOM.render(<MovieShowcase />, document.getElementById('root'));
+//start react app.. call this method. renders MovieShowcase
+
+//root, tree : sitting at top
